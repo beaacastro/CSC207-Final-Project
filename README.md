@@ -12,7 +12,7 @@ Our group project will help ask users for their favourite artists and the city i
 ![4d53e9f5-7386-48d9-a9b3-80cd9f76ab42](https://github.com/beaacastro/week3project/assets/127895849/75823229-861d-4c21-8ddb-f4213fd06b70)
 
 
-## API Usage Example
+## Example of Calling the API from Java
 ![0d2d2703-5039-406b-90fa-a13dc085e168](https://github.com/beaacastro/week3project/assets/127895849/c383e7d4-1ed8-443e-bbf1-c622989735a5)
 
 
@@ -23,8 +23,6 @@ Our group project will help ask users for their favourite artists and the city i
 ## List of Technical Problems Blocking Progress
 * Ticketmaster offers many APIs. The Discovery API has limited features compared to Partner API and Presence API, which can’t view available seat inventory status or purchase tickets in advance.
 * The Ticketmaster Discovery API has a default quota of 5000 API calls per day and a rate limitation of 5 requests per second. This could cause a problem if we want to publish this application as the amount of users who can use this application per day would be 5000.
-
-## Example of Calling the API from Java
 
 
 
