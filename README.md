@@ -9,10 +9,16 @@ Our group project will help ask users for their favourite artists and the city i
 ## Link to Documentation for API
 * Link for Ticketmaster Discovery API: https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/
 * Photo of Ticketmaster API being accessed through Postman
+![4d53e9f5-7386-48d9-a9b3-80cd9f76ab42](https://github.com/beaacastro/week3project/assets/127895849/75823229-861d-4c21-8ddb-f4213fd06b70)
+
 
 ## API Usage Example
+![0d2d2703-5039-406b-90fa-a13dc085e168](https://github.com/beaacastro/week3project/assets/127895849/c383e7d4-1ed8-443e-bbf1-c622989735a5)
+
 
 ## Output for Java Code
+![b252d096-bba7-49de-becd-3bb41cb486be](https://github.com/beaacastro/week3project/assets/127895849/123429f4-b4ed-4842-a320-ff970bba9a35)
+
 
 ## List of Technical Problems Blocking Progress
 * Ticketmaster offers many APIs. The Discovery API has limited features compared to Partner API and Presence API, which can’t view available seat inventory status or purchase tickets in advance.
