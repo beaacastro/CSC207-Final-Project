@@ -1,11 +1,5 @@
 # CSC207 Final Project
 
-## Group Members
-* Kelsang Tsomo
-* Olindi Mallika
-* Brittany Lansang
-* Bea Castro
-
 ## Problem Domain
 Project domain: The project domain our group will be dealing with is concert events. Our primary objective is to develop a user-friendly application which allows users to find upcoming dates for their favourite artists based on a specified location.
 
@@ -30,6 +24,10 @@ Our group project will help ask users for their favourite artists and the city i
 * Ticketmaster offers many APIs. The Discovery API has limited features compared to Partner API and Presence API, which can’t view available seat inventory status or purchase tickets in advance.
 * The Ticketmaster Discovery API has a default quota of 5000 API calls per day and a rate limitation of 5 requests per second. This could cause a problem if we want to publish this application as the amount of users who can use this application per day would be 5000.
 
-
+## Group Members
+* Kelsang Tsomo
+* Olindi Mallika
+* Brittany Lansang
+* Bea Castro
 
 
