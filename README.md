@@ -1,4 +1,4 @@
-# week3project
+# CSC207 Final Project
 
 ## Problem Domain
 Project domain: The project domain our group will be dealing with is concert events. Our primary objective is to develop a user-friendly application which allows users to find upcoming dates for their favourite artists based on a specified location.
